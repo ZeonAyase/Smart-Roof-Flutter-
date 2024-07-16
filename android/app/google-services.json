@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33431946775",
+    "project_id": "smart-roof-4cca3",
+    "storage_bucket": "smart-roof-4cca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33431946775:android:8396c504a778b7f541fe52",
+        "android_client_info": {
+          "package_name": "com.example.smart_roof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDj8L68KzXdyYEsEyYEJs_gworzPkl-A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
